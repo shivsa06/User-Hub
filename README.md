@@ -9,7 +9,7 @@ MySQL database integration for persistent data.
 
 Tech Stack
 
-Frontend: React Vite, React Router, Axios, CSS Modules
+Frontend: React.js, React Router, Axios, CSS Modules
 Backend: Express.js, MySQL, dotenv
 Database: MySQL (users table)
 
